@@ -16,9 +16,9 @@ Neste projeto, participei de um desafio que me permitiu aprimorar minhas habilid
 
 Este projeto demonstra meu comprometimento em explorar e aplicar conceitos de Business Intelligence, fornecendo uma amostra de meu portfólio de projetos técnicos no Power BI. Ele reflete minha capacidade de criar relatórios informativos e interativos, que podem ser valiosos para tomadas de decisão informadas.
 
-![Página 1 do Desafio](imagens/Pagina01.png)
+![Página 1 do Desafio](pasta/2023-10-21.png)
 
-![Página 2 do Desafio](imagens/Pagina02.png)
+![Página 2 do Desafio](pasta/2023-10-22.png)
 
 
 Este desafio é uma parte essencial do meu contínuo desenvolvimento em análise de dados e visualização, e estou ansioso para receber feedback e aprimorar ainda mais minhas habilidades.
