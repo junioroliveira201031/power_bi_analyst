@@ -4,9 +4,9 @@ Repositório relacionado a formação de Power BI Analyst
 
 # Desafio de Power BI - Relatório Financeiro
 
-Neste projeto, participei de um desafio que me permitiu aprimorar minhas habilidades em Power BI e criar um relatório financeiro mais elaborado. Durante o desafio, adquiri e utilizei conhecimentos em:
+Neste projeto, participei de um desafio que me permitiu aprimorar minhas habilidades em Power BI e criar um relatório elegante de vendas mais elaborado. Durante o desafio, adquiri e utilizei conhecimentos em:
 
-- Importação de dados financeiros a partir de arquivos CSV.
+- Importação de dados de vendas a partir de arquivos CSV.
 - Criação de layouts de relatórios eficazes, incluindo grids, caixas de texto e imagens.
 - Desenvolvimento de gráficos e visualizações de dados significativas com base nos dados de amostra fornecidos.
 - Implementação de botões de navegação para facilitar a alternância entre páginas e visuais diferentes.
